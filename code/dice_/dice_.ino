@@ -1,6 +1,6 @@
 
 #define DEBUG 0
-
+// deeptimaan krishna jadaun
 // 6 consecutive digital pins for the LEDs
 int first = 2;
 int second = 3;
